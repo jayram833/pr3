@@ -1,0 +1,62 @@
+body{
+    background-color: rgb(253, 242, 243);
+    font-family: 'Barlow', sans-serif;
+}
+
+.container{
+    border: 1px lightgrey solid;
+    background-color: white;
+    border-radius: 20px;
+    margin: 50px 150px 50px 150px;
+}
+
+.container h1{
+    text-align: center;
+}
+
+.personal-detail-form{
+    margin: 10px 30px 10px 30px;
+}
+
+.checkbox{
+    border: 1px grey solid;
+    margin: 10px 30px 10px 30px;
+
+}
+
+.checkbox{
+    padding: 15px 0px 20px 15px;
+}
+
+.checkbox form{
+    padding-top: 15px;
+}
+
+.political{
+    border: 1px grey solid;
+    margin: 10px 30px 10px 30px;
+    padding: 15px 0px 15px 15px;
+}
+
+.essay-section{
+    margin: 10px 30px 10px 30px;
+}
+
+.last-button{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+button{
+    padding: 10px;
+    font-size: 20px;
+    border: none;
+    color: white;
+    background-color: red;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: royalblue;
+}
